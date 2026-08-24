@@ -1,6 +1,6 @@
-# Диагностика: Рассылка в Telegram через TeleGain
+# Диагностика: Рассылка в Telegram через TeleTraff
 
-Ситуации, с которыми чаще всего обращаются по этому модулю. Общая диагностика запусков — в [документации](https://telegain-guides.github.io/troubleshooting/).
+Ситуации, с которыми чаще всего обращаются по этому модулю. Общая диагностика запусков — в [документации](https://teletraff-guides.github.io/troubleshooting/).
 
 ## Сообщение не дошло
 
@@ -14,4 +14,4 @@
 
 Исчерпан лимит сессии или получен floodwait.
 
-Подробный разбор шагов — в [полном руководстве](https://telegain-guides.github.io/modules/messaging/).
+Подробный разбор шагов — в [полном руководстве](https://teletraff-guides.github.io/modules/messaging/).

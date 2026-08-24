@@ -1,4 +1,4 @@
-# Частые вопросы: Рассылка в Telegram через TeleGain
+# Частые вопросы: Рассылка в Telegram через TeleTraff
 
 **Можно ли разным людям разный текст?**  
 Да, вариантов может быть несколько.
@@ -12,4 +12,4 @@
 **Можно ли записать голосовое?**  
 Да, прямо в панели.
 
-Остальные вопросы — в [общем FAQ](https://telegain-guides.github.io/faq/) и [полном руководстве](https://telegain-guides.github.io/modules/messaging/).
+Остальные вопросы — в [общем FAQ](https://teletraff-guides.github.io/faq/) и [полном руководстве](https://teletraff-guides.github.io/modules/messaging/).

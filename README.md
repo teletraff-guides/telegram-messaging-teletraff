@@ -1,8 +1,8 @@
-# Рассылка в Telegram через TeleGain
+# Рассылка в Telegram через TeleTraff
 
 Рассылка отправляет подготовленное сообщение по выбранному источнику получателей от ваших аккаунтов. Текст задаётся несколькими вариантами, персонализируется данными получателя и дополняется медиа.
 
-**[Полное руководство →](https://telegain-guides.github.io/modules/messaging/)**  ·  **[Официальная страница модуля →](https://telegain.net/ru/modules/mailing)**
+**[Полное руководство →](https://teletraff-guides.github.io/modules/messaging/)**  ·  **[Официальная страница модуля →](https://teletraff.com/ru/modules/mailing)**
 
 ---
 
@@ -43,19 +43,19 @@
 
 ## Связанные модули
 
-- [Парсеры](https://github.com/telegain-guides/telegram-parser-telegain)
-- [Прогрев аккаунтов](https://github.com/telegain-guides/telegram-account-warmup-telegain)
-- [Нейрочат](https://github.com/telegain-guides/telegram-ai-chat-telegain)
-- [Пулы аккаунтов](https://github.com/telegain-guides/telegram-account-pools-telegain)
+- [Парсеры](https://github.com/teletraff-guides/telegram-parser-teletraff)
+- [Прогрев аккаунтов](https://github.com/teletraff-guides/telegram-account-warmup-teletraff)
+- [Нейрочат](https://github.com/teletraff-guides/telegram-ai-chat-teletraff)
+- [Пулы аккаунтов](https://github.com/teletraff-guides/telegram-account-pools-teletraff)
 
 ## Документация
 
-- [Полное руководство по модулю](https://telegain-guides.github.io/modules/messaging/)
-- [Каталог всех модулей](https://telegain-guides.github.io/modules/)
-- [Диагностика запусков](https://telegain-guides.github.io/troubleshooting/)
-- [Ответственное использование](https://telegain-guides.github.io/responsible-use/)
+- [Полное руководство по модулю](https://teletraff-guides.github.io/modules/messaging/)
+- [Каталог всех модулей](https://teletraff-guides.github.io/modules/)
+- [Диагностика запусков](https://teletraff-guides.github.io/troubleshooting/)
+- [Ответственное использование](https://teletraff-guides.github.io/responsible-use/)
 
 ---
 
-TeleGain — независимый сервис. Он не принадлежит Telegram, не аффилирован с Telegram FZ-LLC
+TeleTraff (ТелеТрафф) — независимый сервис. Он не принадлежит Telegram, не аффилирован с Telegram FZ-LLC
 и не является официальным продуктом мессенджера. Telegram — товарный знак своего правообладателя.
